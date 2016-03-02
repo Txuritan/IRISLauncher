@@ -1,0 +1,17 @@
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\IRISLauncher.exe
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\IRISLauncher.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\atk-sharp.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\gdk-sharp.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\glade-sharp.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\glib-sharp.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\gtk-sharp.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\Mono.Posix.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\pango-sharp.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\gdk-sharp.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\glib-sharp.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\pango-sharp.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\atk-sharp.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\glade-sharp.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Release\IRISLauncher.csprojResolveAssemblyReference.cache
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Release\IRISLauncher.exe
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Release\IRISLauncher.pdb

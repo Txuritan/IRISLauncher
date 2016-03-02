@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="IRISLauncher\IRISLauncher.csproj" />
+﻿<Properties StartupItem="IRISLauncher\IRISLauncher.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IRISLauncher\MainWindow.cs">
+    <Files>
+      <File FileName="IRISLauncher\Program.cs" Line="1" Column="1" />
+      <File FileName="IRISLauncher\MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
