@@ -14,4 +14,7 @@ Global
 		{F338C2DB-F966-441A-957B-D75BD8EBCCBE}.Release|x86.ActiveCfg = Release|x86
 		{F338C2DB-F966-441A-957B-D75BD8EBCCBE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.0.1.0
+	EndGlobalSection
 EndGlobal

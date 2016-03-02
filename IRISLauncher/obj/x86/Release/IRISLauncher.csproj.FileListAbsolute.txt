@@ -15,3 +15,14 @@ C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\glade-sh
 C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Release\IRISLauncher.csprojResolveAssemblyReference.cache
 C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Release\IRISLauncher.exe
 C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Release\IRISLauncher.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\IRISLauncher.exe.config
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\Ini.Net.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\ManagedOpenSsl.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\Newtonsoft.Json.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\YamlDotNet.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\Newtonsoft.Json.xml
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\ManagedOpenSsl.xml
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\YamlDotNet.pdb
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Release\YamlDotNet.xml

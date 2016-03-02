@@ -25,3 +25,4 @@ C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Debug\YamlDotNet
 C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Debug\IRISLauncher.exe.config
 C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
 C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\bin\Debug\Ini.Net.dll
+C:\Users\txurt\Documents\Projects\IRISLauncher\IRISLauncher\obj\x86\Debug\IRISLauncher.csprojResolveAssemblyReference.cache
