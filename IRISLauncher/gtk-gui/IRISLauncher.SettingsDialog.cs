@@ -4,6 +4,14 @@ namespace IRISLauncher
 {
 	public partial class SettingsDialog
 	{
+		private global::Gtk.Notebook notebook1;
+		
+		private global::Gtk.Label label1;
+		
+		private global::Gtk.Label label2;
+		
+		private global::Gtk.Label label3;
+		
 		private global::Gtk.Button buttonCancel;
 		
 		private global::Gtk.Button buttonOk;
@@ -13,18 +21,52 @@ namespace IRISLauncher
 			global::Stetic.Gui.Initialize (this);
 			// Widget IRISLauncher.SettingsDialog
 			this.Name = "IRISLauncher.SettingsDialog";
-			this.Title = global::Mono.Unix.Catalog.GetString ("dialog1");
 			this.WindowPosition = ((global::Gtk.WindowPosition)(4));
 			// Internal child IRISLauncher.SettingsDialog.VBox
 			global::Gtk.VBox w1 = this.VBox;
 			w1.Name = "dialog1_VBox";
 			w1.BorderWidth = ((uint)(2));
+			// Container child dialog1_VBox.Gtk.Box+BoxChild
+			this.notebook1 = new global::Gtk.Notebook ();
+			this.notebook1.CanFocus = true;
+			this.notebook1.Name = "notebook1";
+			this.notebook1.CurrentPage = 0;
+			// Notebook tab
+			global::Gtk.Label w2 = new global::Gtk.Label ();
+			w2.Visible = true;
+			this.notebook1.Add (w2);
+			this.label1 = new global::Gtk.Label ();
+			this.label1.Name = "label1";
+			this.label1.LabelProp = global::Mono.Unix.Catalog.GetString ("IRIS Settings");
+			this.notebook1.SetTabLabel (w2, this.label1);
+			this.label1.ShowAll ();
+			// Notebook tab
+			global::Gtk.Label w3 = new global::Gtk.Label ();
+			w3.Visible = true;
+			this.notebook1.Add (w3);
+			this.label2 = new global::Gtk.Label ();
+			this.label2.Name = "label2";
+			this.label2.LabelProp = global::Mono.Unix.Catalog.GetString ("Java Settings");
+			this.notebook1.SetTabLabel (w3, this.label2);
+			this.label2.ShowAll ();
+			// Notebook tab
+			global::Gtk.Label w4 = new global::Gtk.Label ();
+			w4.Visible = true;
+			this.notebook1.Add (w4);
+			this.label3 = new global::Gtk.Label ();
+			this.label3.Name = "label3";
+			this.label3.LabelProp = global::Mono.Unix.Catalog.GetString ("About IRIS");
+			this.notebook1.SetTabLabel (w4, this.label3);
+			this.label3.ShowAll ();
+			w1.Add (this.notebook1);
+			global::Gtk.Box.BoxChild w5 = ((global::Gtk.Box.BoxChild)(w1 [this.notebook1]));
+			w5.Position = 0;
 			// Internal child IRISLauncher.SettingsDialog.ActionArea
-			global::Gtk.HButtonBox w2 = this.ActionArea;
-			w2.Name = "dialog1_ActionArea";
-			w2.Spacing = 10;
-			w2.BorderWidth = ((uint)(5));
-			w2.LayoutStyle = ((global::Gtk.ButtonBoxStyle)(4));
+			global::Gtk.HButtonBox w6 = this.ActionArea;
+			w6.Name = "dialog1_ActionArea";
+			w6.Spacing = 10;
+			w6.BorderWidth = ((uint)(5));
+			w6.LayoutStyle = ((global::Gtk.ButtonBoxStyle)(4));
 			// Container child dialog1_ActionArea.Gtk.ButtonBox+ButtonBoxChild
 			this.buttonCancel = new global::Gtk.Button ();
 			this.buttonCancel.CanDefault = true;
@@ -34,9 +76,9 @@ namespace IRISLauncher
 			this.buttonCancel.UseUnderline = true;
 			this.buttonCancel.Label = "gtk-cancel";
 			this.AddActionWidget (this.buttonCancel, -6);
-			global::Gtk.ButtonBox.ButtonBoxChild w3 = ((global::Gtk.ButtonBox.ButtonBoxChild)(w2 [this.buttonCancel]));
-			w3.Expand = false;
-			w3.Fill = false;
+			global::Gtk.ButtonBox.ButtonBoxChild w7 = ((global::Gtk.ButtonBox.ButtonBoxChild)(w6 [this.buttonCancel]));
+			w7.Expand = false;
+			w7.Fill = false;
 			// Container child dialog1_ActionArea.Gtk.ButtonBox+ButtonBoxChild
 			this.buttonOk = new global::Gtk.Button ();
 			this.buttonOk.CanDefault = true;
@@ -46,15 +88,15 @@ namespace IRISLauncher
 			this.buttonOk.UseUnderline = true;
 			this.buttonOk.Label = "gtk-ok";
 			this.AddActionWidget (this.buttonOk, -5);
-			global::Gtk.ButtonBox.ButtonBoxChild w4 = ((global::Gtk.ButtonBox.ButtonBoxChild)(w2 [this.buttonOk]));
-			w4.Position = 1;
-			w4.Expand = false;
-			w4.Fill = false;
+			global::Gtk.ButtonBox.ButtonBoxChild w8 = ((global::Gtk.ButtonBox.ButtonBoxChild)(w6 [this.buttonOk]));
+			w8.Position = 1;
+			w8.Expand = false;
+			w8.Fill = false;
 			if ((this.Child != null)) {
 				this.Child.ShowAll ();
 			}
-			this.DefaultWidth = 400;
-			this.DefaultHeight = 300;
+			this.DefaultWidth = 633;
+			this.DefaultHeight = 443;
 			this.Show ();
 		}
 	}
