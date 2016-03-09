@@ -1,0 +1,16 @@
+<Version>
+  <Id>0.0.1.0</Id>
+  <Date>3/08/16</Date>
+  <Notes>
+    <Note>
+      <Title>1st release note</Title>
+      <Content>...</Content>
+    </Note>
+  </Notes>
+  <Urls>
+    <Url>
+      <Title>Download Link</Title>
+      <Content>http://a.download.link</Content>
+    </Url>
+  </Urls>
+</Version>
